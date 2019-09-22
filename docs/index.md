@@ -1,5 +1,5 @@
-# Vuepress Test for Reachout
+<h1>VuePress, Forestry.io test for Reachout</h1>
 
-<h3>This is heading 3</h3>
+<h2>Articles</h2>
 
-<p>This is a paragraph tag</p>
+<DirectoryList path="/articles/" displayProp="title" />
