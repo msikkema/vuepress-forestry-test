@@ -14,12 +14,6 @@ fields:
     required: false
   label: Subtitle
   description: subtitle that goes under the title
-- name: author
-  type: text
-  config:
-    required: false
-  label: Author
-  description: Author of the article
 - name: heroImage
   type: file
   config:
@@ -34,3 +28,7 @@ fields:
     schema:
       format: markdown
   label: Content
+- name: relatedTopics
+  type: tag_list
+  default: []
+  label: Related Topics
