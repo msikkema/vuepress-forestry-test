@@ -45,4 +45,4 @@ The various types of anxiety disorders include:
 
 **What causes anxiety disorders?**
 
-Anxiety disorders aren’t caused by a single factor, but rather by a combination of things. A family history of anxiety, a person’s physical health, personality traits and stressful life experiences can all be contributing factors. Anxiety disorders are likely to develop over time and are usually sustained by unhelpful thinking patterns.
+Anxiety disorders aren’t caused by a single factor, but rather by a combination of things. A family history of anxiety, a person’s physical health, personality traits and stressful life experiences can all be contributing factors. Anxiety disorders are likely to develop over time and are usually sustained by unhelpful thinking patternss.
