@@ -7,6 +7,7 @@ subtitle: Worried about how anxious you feel? Wondering 'what is anxiety'? Learn
   you feel that anxiety is affecting your life.
 heroImage: "/public/Girl on outdoor train platform.jpg"
 content: ''
+layout: ''
 
 ---
 **This can help if:**
