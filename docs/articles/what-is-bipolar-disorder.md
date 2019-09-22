@@ -5,7 +5,7 @@ title: What is bipolar disorder?
 subtitle: Bipolar disorder is characterised by experiencing extreme moods. Learn about
   the signs and symptoms, the different types of bipolar disorder and what to do if
   you think you might have symptoms.
-heroImage: ''
+heroImage: "/public/step.jpg"
 
 ---
 ## **This can help if:**
