@@ -32,3 +32,5 @@ fields:
   type: tag_list
   default: []
   label: Related Topics
+pages:
+- docs/articles/what-is-anxiety.md
