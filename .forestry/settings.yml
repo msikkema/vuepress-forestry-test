@@ -4,10 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Landing Pages
 - type: document
   path: docs/index.md
   label: Homepage
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
@@ -15,13 +16,13 @@ sections:
   label: Articles
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: docs/toolsAndApps
   label: Tools and Apps
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
