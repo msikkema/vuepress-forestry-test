@@ -10,8 +10,17 @@
         :key="page.title"
         :title="page.title"
         :link="page.path"
+        :image="page.frontmatter.heroImage"
       )
 </template>
+
+<script>
+export default {
+  mounted() {
+    console.log(this.$site.pages.filter(p => p.path.indexOf('/articles/') >= 0))
+  }
+}
+</script>
 
 <style lang="stylus">
   .article-cards

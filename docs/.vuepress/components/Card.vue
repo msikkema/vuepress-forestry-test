@@ -1,7 +1,8 @@
 <template lang="pug">
   .card-container(
     @click="go"
-  ) {{ title }}
+    :style="`background-image: url(${image})`"
+  ) {{ image }}
 </template>
 
 <script>
@@ -24,7 +25,7 @@ export default {
   .card-container
     height 400px
     width 250px
-    background-color $secondary-background
+    background-image url()
     color $secondary-color
 
     &:hover

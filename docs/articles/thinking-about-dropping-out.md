@@ -4,7 +4,7 @@ relatedTopics: []
 title: Thinking about Dropping Out?
 subtitle: It’s okay to quit something when it’s not working for you, but before you
   make a big decision, there are a few things you should consider.
-heroImage: "/public/side-eye.JPG"
+heroImage: "/side-eye.JPG"
 
 ---
 ## What are your reasons?
