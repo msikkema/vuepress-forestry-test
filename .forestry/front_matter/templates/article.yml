@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: Layout
-  default: ArticleLayout
+  default: layout
   hidden: true
 - name: title
   type: text
