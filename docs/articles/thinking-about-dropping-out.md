@@ -13,6 +13,8 @@ Whether it’s to do with your learning style or it’s related to something big
 
 There might be something else you can change to make study more achievable?
 
+![](/public/Girls toasting beer bottles and plastic cups.jpg)
+
 **‘I feel like I can’t cope.’**
 
 It isn’t always easy to cope with all the stuff that goes on in life, and adding school and uni to the mix can sometimes be the thing that tips you over into thinking it’s all too hard. Chat to someone about how you’re feeling and see if there’s any way to lighten your load. This might put you back in control.
@@ -21,7 +23,7 @@ It isn’t always easy to cope with all the stuff that goes on in life, and addi
 
 If you feel like the workload is more than you can handle, dropping out isn’t your only option. Have a chat to others in your class and see how they’re going. Maybe you’re not the only one having difficulty. Ask for a meeting with your teacher/lecturer to express your concerns. Talking about it lets others know that you’re not coping and might encourage them to speak up, too.
 
-![Spongebob maths](https://au.reachout.com/-/media/young-people/images/gif-library/spongebob-maths.gif?la=en&hash=25AC2B147EDA3F57E133082879F4458E1BE4F942 =850xauto)
+!\[Spongebob maths\](https://au.reachout.com/-/media/young-people/images/gif-library/spongebob-maths.gif?la=en&hash=25AC2B147EDA3F57E133082879F4458E1BE4F942 =850xauto)
 
 **‘I have too much stuff on.’**
 
@@ -31,7 +33,7 @@ It can often be hard to say ‘no’ to things, which means it’s easy to over-
 
 There’s absolutely nothing wrong with feeling like you’re just not made for education. Everyone has talents, and perhaps yours don’t include sitting for exams, studying or writing essays. Though there are legal reasons you might have to stick it out with school, higher ed is an option that you don’t have to pursue if it’s not working out. Getting a job or starting an apprenticeship are equally valuable alternatives.
 
-![not for me](https://au.reachout.com/-/media/young-people/images/gif-library/not-for-me.gif?la=en&hash=5C78008E8C3727BAF28A201C6BAD5D986BADA9EC =850xauto)
+!\[not for me\](https://au.reachout.com/-/media/young-people/images/gif-library/not-for-me.gif?la=en&hash=5C78008E8C3727BAF28A201C6BAD5D986BADA9EC =850xauto)
 
 **Questions to ask yourself**
 
