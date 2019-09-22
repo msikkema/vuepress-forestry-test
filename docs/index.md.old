@@ -1,0 +1,15 @@
+<h1>VuePress, Forestry.io test for Reachout</h1>
+
+<h2>Articles</h2>
+<DirectoryList path="/articles/" displayProp="title" />
+
+<div class="article-cards">
+  <Card
+    v-for="page in $site.pages.filter(p => p.path.indexOf('/articles/') >= 0)"
+    :key="page.title"
+    :title="page.title"
+  />
+</div>
+
+<h2>Apps and Tools</h2>
+

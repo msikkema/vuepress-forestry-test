@@ -1,8 +1,27 @@
 <template lang="pug">
-  .theme-container
-    h1 This is from the ArticleLayout component
+.theme-container
+  Navbar
+  .content-container
+    h1 {{ $page.title }}
     Content
 </template>
 
-<style lang="scss">
+<script>
+import Navbar from '../components/Navbar'
+
+export default {
+  components: {
+    Navbar
+  },
+  mounted() {
+    console.log(this.$site)
+  }
+}
+</script>
+
+<style lang="stylus">
+.content-container
+  padding 40px
+  color $secondary-color
+  background-color $secondary-background
 </style>
