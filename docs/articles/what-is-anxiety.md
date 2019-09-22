@@ -17,8 +17,6 @@ layout: ArticleLayout
 * you have difficulty concentrating because of fear or worry
 * you avoid doing things because of anxiety.
 
-![](/public/Girl on outdoor train platform.jpg)
-
 ## **what is anxiety**
 
 Anxiety is the body’s physical response to fear. The symptoms might include:
