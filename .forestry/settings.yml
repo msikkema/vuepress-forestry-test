@@ -13,13 +13,13 @@ sections:
   label: Content
 - type: directory
   path: docs/articles
-  label: Articles
+  label: Article
   create: all
   match: "**/*"
   new_doc_ext: md
 - type: directory
   path: docs/toolsAndApps
-  label: Tools and Apps
+  label: Tool or App
   create: all
   match: "**/*"
   new_doc_ext: md
