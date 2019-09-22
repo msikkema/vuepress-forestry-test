@@ -13,8 +13,6 @@ Whether it’s to do with your learning style or it’s related to something big
 
 There might be something else you can change to make study more achievable?
 
-![](/public/Girls toasting beer bottles and plastic cups.jpg)
-
 **‘I feel like I can’t cope.’**
 
 It isn’t always easy to cope with all the stuff that goes on in life, and adding school and uni to the mix can sometimes be the thing that tips you over into thinking it’s all too hard. Chat to someone about how you’re feeling and see if there’s any way to lighten your load. This might put you back in control.
