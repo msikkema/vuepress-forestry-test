@@ -8,6 +8,7 @@ fields:
     required: false
   label: layout
   default: ArticleLayout
+  hidden: true
 - name: title
   type: text
   config:
