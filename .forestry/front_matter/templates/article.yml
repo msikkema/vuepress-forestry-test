@@ -1,4 +1,36 @@
 ---
 label: Article
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Article Title
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+  description: subtitle that goes under the title
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  description: Author of the article
+- name: heroImage
+  type: file
+  config:
+    maxSize: 250
+  label: Hero Image
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Content
