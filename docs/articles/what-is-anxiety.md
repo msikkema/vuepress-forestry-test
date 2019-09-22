@@ -5,7 +5,7 @@ subtitle: Worried about how anxious you feel? Wondering 'what is anxiety'? Learn
   to tell the difference between ‘normal’ anxiety and an anxiety disorder. Find out
   about potential causes of anxiety disorders, anxiety symptoms and what to do if
   you feel that anxiety is affecting your life.
-heroImage: ''
+heroImage: "/public/train-platform.jpg"
 content: ''
 layout: ArticleLayout
 
