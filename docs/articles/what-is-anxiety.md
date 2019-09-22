@@ -7,17 +7,17 @@ subtitle: Worried about how anxious you feel? Wondering 'what is anxiety'? Learn
   you feel that anxiety is affecting your life.
 heroImage: "/public/Girl on outdoor train platform.jpg"
 content: ''
-layout: 'ArticleLayout'
+layout: ArticleLayout
 
 ---
-**This can help if:**
+## **This can help if:**
 
 * you often feel scared, worried, ‘on edge’ or nervous
 * you often worry that something bad will happen
 * you have difficulty concentrating because of fear or worry
 * you avoid doing things because of anxiety.
 
-**what is anxiety**
+## **what is anxiety**
 
 Anxiety is the body’s physical response to fear. The symptoms might include:
 
@@ -31,7 +31,7 @@ Everyone feels anxious at times, and a certain level of anxiety is both normal a
 
 Anxiety can also motivate us. If we feel a bit anxious about an assignment that’s due, it can help us to get it done on time. However, feeling _too much_ anxiety about something usually gets in the way and can be unhealthy.
 
-**What is an anxiety disorder?**
+## **What is an anxiety disorder?**
 
 Anxiety disorder occurs when anxiety starts to severely impact on a person’s life. Rather than feeling anxious in response to actual danger, someone with an anxiety disorder will experience the same symptoms in situations they _perceive_ as dangerous (e.g. meeting new people or taking public transportation).
 
@@ -43,6 +43,6 @@ The various types of anxiety disorders include:
 * [**Agoraphobia**](https://au.reachout.com/articles/what-is-agoraphobia)**:** anxiety about having a panic attack in certain situations and not being able to escape or to get help.
 * [**Specific phobias**](https://au.reachout.com/articles/how-to-tell-if-you-have-a-phobia)**:** intense fear of objects or situations (e.g. dogs).
 
-**What causes anxiety disorders?**
+## **What causes anxiety disorders?**
 
 Anxiety disorders aren’t caused by a single factor, but rather by a combination of things. A family history of anxiety, a person’s physical health, personality traits and stressful life experiences can all be contributing factors. Anxiety disorders are likely to develop over time and are usually sustained by unhelpful thinking patternss.

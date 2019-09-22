@@ -31,5 +31,5 @@ fields:
   default: []
   label: Related Topics
 pages:
-- docs/articles/what-is-bipolar-disorder.md
 - docs/articles/what-is-anxiety.md
+- docs/articles/what-is-bipolar-disorder.md
