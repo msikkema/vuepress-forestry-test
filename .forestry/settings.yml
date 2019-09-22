@@ -3,7 +3,25 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: document
+  path: docs/index.md
+  label: Homepage
+  match: "**/*"
+- type: heading
+  label: Content
+- type: directory
+  path: docs/articles
+  label: Articles
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
+  path: docs/toolsAndApps
+  label: Tools and Apps
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
