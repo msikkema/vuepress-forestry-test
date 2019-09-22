@@ -24,7 +24,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
 upload_dir: docs/.vuepress/public
-public_path: "/public"
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
