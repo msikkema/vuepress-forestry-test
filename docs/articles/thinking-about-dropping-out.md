@@ -21,7 +21,7 @@ It isn’t always easy to cope with all the stuff that goes on in life, and addi
 
 If you feel like the workload is more than you can handle, dropping out isn’t your only option. Have a chat to others in your class and see how they’re going. Maybe you’re not the only one having difficulty. Ask for a meeting with your teacher/lecturer to express your concerns. Talking about it lets others know that you’re not coping and might encourage them to speak up, too.
 
-<ROImage url="[https://au.reachout.com/-/media/young-people/images/gif-library/spongebob-maths.gif?la=en&hash=25AC2B147EDA3F57E133082879F4458E1BE4F942](https://au.reachout.com/-/media/young-people/images/gif-library/spongebob-maths.gif?la=en&hash=25AC2B147EDA3F57E133082879F4458E1BE4F942 "https://au.reachout.com/-/media/young-people/images/gif-library/spongebob-maths.gif?la=en&hash=25AC2B147EDA3F57E133082879F4458E1BE4F942") =850xauto" />
+<ROImage url="https://au.reachout.com/-/media/young-people/images/gif-library/spongebob-maths.gif?la=en&hash=25AC2B147EDA3F57E133082879F4458E1BE4F942=850xauto" />
 
 **‘I have too much stuff on.’**
 
