@@ -8,7 +8,7 @@ subtitle: Not sure how to get a job? Wondering what to do to get a job? We've ro
 heroImage: "/job-stuff.jpg"
 
 ---
-![Job Stuff Best of the Web BANNER](https://au.reachout.com/-/media/young-people/images/other/job-stuff-best-of-the-web-banner.jpg?h=auto&w=850&la=en&hash=619B38F5DF7237BE721FF0E0BFD13FBEFE224017 =xauto)
+<ROImage url="![](https://au.reachout.com/-/media/young-people/images/other/job-stuff-best-of-the-web-banner.jpg?h=auto&w=850&la=en&hash=619B38F5DF7237BE721FF0E0BFD13FBEFE224017=xauto)" />
 
 ## How to write a killer resume
 
@@ -24,7 +24,7 @@ heroImage: "/job-stuff.jpg"
 * Get paid and feel good about it. [EthicalJobs](http://www.ethicaljobs.com.au/) brings together people and organisations that want to make the world a better place.
 * Cold calling can be scary. Use [these tips](https://www.youthcentral.vic.gov.au/jobs-and-careers/how-to-find-a-job/ways-to-find-a-job/tips-for-job-cold-calling) to give yourself a confidence boost.
 
-![Job Stuff Best of the Web JOB SITES](https://au.reachout.com/-/media/young-people/images/other/job-stuff-best-of-the-web-job-sites.jpg?la=en&hash=CD61C9457FB292AB501D36502AFB01D538DA2BBF =850xauto)
+!\[Job Stuff Best of the Web JOB SITES\](https://au.reachout.com/-/media/young-people/images/other/job-stuff-best-of-the-web-job-sites.jpg?la=en&hash=CD61C9457FB292AB501D36502AFB01D538DA2BBF =850xauto)
 
 ## Train me up!
 
