@@ -8,7 +8,7 @@ subtitle: You might think not everyone can turn a blank canvas into a work of ar
   and it really is soothing to just chill out and enjoy the show. Plus, if you’re
   an artist who needs some inspiration, looking to what others are doing can be a
   great way to kickstart your own creative juices.
-heroImage: "/bob ross man painting a landscape.jpg"
+heroImage: "/painting.jpg"
 
 ---
 [Bob Ross](https://www.youtube.com/user/BobRossInc)
