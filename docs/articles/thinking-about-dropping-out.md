@@ -31,8 +31,6 @@ It can often be hard to say ‘no’ to things, which means it’s easy to over-
 
 There’s absolutely nothing wrong with feeling like you’re just not made for education. Everyone has talents, and perhaps yours don’t include sitting for exams, studying or writing essays. Though there are legal reasons you might have to stick it out with school, higher ed is an option that you don’t have to pursue if it’s not working out. Getting a job or starting an apprenticeship are equally valuable alternatives.
 
-!\[not for me\](https://au.reachout.com/-/media/young-people/images/gif-library/not-for-me.gif?la=en&hash=5C78008E8C3727BAF28A201C6BAD5D986BADA9EC =850xauto)
-
 <ROImage url="https://au.reachout.com/-/media/young-people/images/gif-library/not-for-me.gif?la=en&hash=5C78008E8C3727BAF28A201C6BAD5D986BADA9EC=850xauto" />
 
 **Questions to ask yourself**
