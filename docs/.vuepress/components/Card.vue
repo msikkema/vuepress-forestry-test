@@ -29,8 +29,11 @@ const titleClass = css`
 const cardContainer = css`
   height: 600px;
   width: 350px;
+  flex-grow: 0;
+  flex-shrink: 0;
   color: ${secondaryColor};
   overflow: hidden;
+  border: 1px solid grey;
 
   &:hover { cursor: pointer; }
 `;

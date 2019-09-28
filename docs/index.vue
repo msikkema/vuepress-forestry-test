@@ -18,8 +18,14 @@
 <script>
 import { css } from 'emotion'
 
-const articleCards = css`display: flex;`;
-const cardClasses = css`margin: 5px;`
+const articleCards = css`
+  display: flex;
+  flex-wrap: wrap;
+`;
+
+const cardClasses = css`
+  margin: 5px;
+`
 
 export default {
   data() {
