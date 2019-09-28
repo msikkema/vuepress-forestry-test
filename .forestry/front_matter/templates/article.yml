@@ -31,6 +31,7 @@ fields:
   default: []
   label: Related Topics
 pages:
+- docs/articles/ways-to-relax-art-and-design.md
 - docs/articles/ways-to-relax-animals.md
 - docs/articles/getting-a-job.md
 - docs/articles/thinking-about-dropping-out.md
