@@ -6,7 +6,7 @@ subtitle: Animals. Do we really need to say any more? They can be great for your
   and mental health. If you’re an animal lover but don’t have access to a real-life
   pet, then these are the channels for you. Research has shown that viewing pictures
   or videos of cute animals reduces stress and lifts your mood.
-heroImage: "/baby sloth.jpg"
+heroImage: "/sloth.jpg"
 
 ---
 [The Pet Collective](https://www.youtube.com/user/ThePetCollective/featured)
