@@ -3,11 +3,7 @@ layout: ArticleLayout
 relatedTopics: []
 title: 'Ways to Relax: Art and Design'
 subtitle: You might think not everyone can turn a blank canvas into a work of art
-  – these people are here to show you that you can! Or if you prefer, just sit back
-  and watch others doing it! There’s a kind of magic to watching this work unfold
-  and it really is soothing to just chill out and enjoy the show. Plus, if you’re
-  an artist who needs some inspiration, looking to what others are doing can be a
-  great way to kickstart your own creative juices.
+  – these people are here to show you that you can!
 heroImage: "/painting.jpg"
 
 ---
