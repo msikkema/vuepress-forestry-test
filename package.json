@@ -9,5 +9,8 @@
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^8.0.0",
     "vuepress": "^1.1.0"
+  },
+  "dependencies": {
+    "emotion": "^10.0.17"
   }
 }
