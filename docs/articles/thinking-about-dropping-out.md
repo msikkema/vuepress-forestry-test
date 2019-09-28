@@ -33,6 +33,8 @@ There’s absolutely nothing wrong with feeling like you’re just not made for 
 
 !\[not for me\](https://au.reachout.com/-/media/young-people/images/gif-library/not-for-me.gif?la=en&hash=5C78008E8C3727BAF28A201C6BAD5D986BADA9EC =850xauto)
 
+<ROImage url="https://au.reachout.com/-/media/young-people/images/gif-library/not-for-me.gif?la=en&hash=5C78008E8C3727BAF28A201C6BAD5D986BADA9EC=850xauto">
+
 **Questions to ask yourself**
 
 * Why do I want to drop out?
