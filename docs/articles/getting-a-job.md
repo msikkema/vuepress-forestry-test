@@ -24,7 +24,7 @@ heroImage: "/job-stuff.jpg"
 * Get paid and feel good about it. [EthicalJobs](http://www.ethicaljobs.com.au/) brings together people and organisations that want to make the world a better place.
 * Cold calling can be scary. Use [these tips](https://www.youthcentral.vic.gov.au/jobs-and-careers/how-to-find-a-job/ways-to-find-a-job/tips-for-job-cold-calling) to give yourself a confidence boost.
 
-!\[Job Stuff Best of the Web JOB SITES\](https://au.reachout.com/-/media/young-people/images/other/job-stuff-best-of-the-web-job-sites.jpg?la=en&hash=CD61C9457FB292AB501D36502AFB01D538DA2BBF =850xauto)
+<ROImage url="![](https://au.reachout.com/-/media/young-people/images/other/job-stuff-best-of-the-web-job-sites.jpg?la=en&hash=CD61C9457FB292AB501D36502AFB01D538DA2BBF=850xauto)" />
 
 ## Train me up!
 
