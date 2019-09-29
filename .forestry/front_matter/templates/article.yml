@@ -42,6 +42,14 @@ fields:
       file: 
       path: 
   label: Related Articles
+- name: block_test
+  type: blocks
+  label: Block test
+  template_types:
+  - article
+  config:
+    min: 
+    max: 
 pages:
 - docs/articles/thinking-about-dropping-out.md
 - docs/articles/ways-to-relax-animals.md
