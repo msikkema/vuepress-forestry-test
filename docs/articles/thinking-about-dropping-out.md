@@ -5,6 +5,7 @@ title: Thinking about Dropping Out?
 subtitle: It’s okay to quit something when it’s not working for you, but before you
   make a big decision, there are a few things you should consider.
 heroImage: "/side-eye.JPG"
+related_articles: ''
 
 ---
 ## What are your reasons?
@@ -45,4 +46,4 @@ There’s absolutely nothing wrong with feeling like you’re just not made for 
 
 ## Ultimately…
 
-Studying isn’t for everyone, but before you make the big decision to drop out, it’s worth thinking of your reasons and the consequences of doing it. It’s important to make a plan for after you drop out – you don’t want suddenly to feel like you have nothing to do or nowhere to go. Counsellors, teachers, friends and parents are all good people to talk to if you feel like you’re at risk of dropping out.
+Studying isn’t for everyone, but before you make the big decision to drop out, it’s worth thinking of your reasons and the consequences of doing it. It’s important to make a plan for after you drop out – you don’t want suddenly to feel like you have nothing to do or nowhere to go. Counsellors, teachers, friends and parents are all good people to talk to if you feel like you’re at risk of dropping out...
